@@ -6,7 +6,7 @@
 
 mirrors:
 
-[yougame.biz]() / [catbox.moe]() / [crystalpvp.ru]() / [soyjak.download]()
+[yougame.biz](https://yougame.biz/threads/265027/) / [crystalpvp.ru](https://crystalpvp.ru/moonlight) / [soyjak.download](https://soyjak.download/f.php?h=2NUOmhAB&d=1) / [pomf.cat](https://a.pomf.cat/irbapx.jar)
 
 # [ info ]
 
